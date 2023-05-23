@@ -3,58 +3,15 @@ Example Output in log file:
 Location: Toronto, Ontario, Canada on Windows 10
 
 [2023-05-23 15:26:55] Key ''t'' pressed
+
 [2023-05-23 15:26:55] Key ''e'' pressed
+
 [2023-05-23 15:26:56] Key ''s'' pressed
-[2023-05-23 15:26:56] Key ''t'' pressed
-[2023-05-23 15:26:56] Key ''i'' pressed
+
+[2023-05-23 15:26:56] Key ''t'' pressed 
+
+[2023-05-23 15:26:56] Key ''i'' pressed 
+
 [2023-05-23 15:26:56] Key ''n'' pressed
+
 [2023-05-23 15:26:56] Key ''g'' pressed
-[2023-05-23 15:26:56] Key 'Key.space' pressed
-[2023-05-23 15:26:56] Key ''t'' pressed
-[2023-05-23 15:26:56] Key ''h'' pressed
-[2023-05-23 15:26:56] Key ''e'' pressed
-[2023-05-23 15:26:57] Key 'Key.space' pressed
-[2023-05-23 15:26:57] Key ''n'' pressed
-[2023-05-23 15:26:57] Key ''e'' pressed
-[2023-05-23 15:26:57] Key ''w'' pressed
-[2023-05-23 15:26:57] Key 'Key.space' pressed
-[2023-05-23 15:26:58] Key ''k'' pressed
-[2023-05-23 15:26:58] Key ''e'' pressed
-[2023-05-23 15:26:58] Key ''y'' pressed
-[2023-05-23 15:26:58] Key ''l'' pressed
-[2023-05-23 15:26:58] Key ''o'' pressed
-[2023-05-23 15:26:58] Key ''g'' pressed
-[2023-05-23 15:26:58] Key ''g'' pressed
-[2023-05-23 15:26:58] Key ''e'' pressed
-[2023-05-23 15:26:59] Key ''r'' pressed
-[2023-05-23 15:27:01] Key ''.'' pressed
-[2023-05-23 15:27:01] Key 'Key.space' pressed
-[2023-05-23 15:27:04] Key ''u'' pressed
-[2023-05-23 15:27:04] Key ''s'' pressed
-[2023-05-23 15:27:04] Key ''e'' pressed
-[2023-05-23 15:27:04] Key ''r'' pressed
-[2023-05-23 15:27:04] Key ''n'' pressed
-[2023-05-23 15:27:04] Key ''a'' pressed
-[2023-05-23 15:27:04] Key ''m'' pressed
-[2023-05-23 15:27:05] Key ''e'' pressed
-[2023-05-23 15:27:06] Key 'Key.space' pressed
-[2023-05-23 15:27:06] Key 'Key.shift' pressed
-[2023-05-23 15:27:06] Key ''P'' pressed
-[2023-05-23 15:27:06] Key ''a'' pressed
-[2023-05-23 15:27:07] Key ''s'' pressed
-[2023-05-23 15:27:07] Key ''s'' pressed
-[2023-05-23 15:27:07] Key ''w'' pressed
-[2023-05-23 15:27:07] Key ''o'' pressed
-[2023-05-23 15:27:07] Key ''r'' pressed
-[2023-05-23 15:27:08] Key ''d'' pressed
-[2023-05-23 15:27:08] Key 'Key.space' pressed
-[2023-05-23 15:27:08] Key ''1'' pressed
-[2023-05-23 15:27:08] Key ''2'' pressed
-[2023-05-23 15:27:08] Key 'Key.backspace' pressed
-[2023-05-23 15:27:09] Key 'Key.backspace' pressed
-[2023-05-23 15:27:09] Key 'Key.backspace' pressed
-[2023-05-23 15:27:09] Key ''1'' pressed
-[2023-05-23 15:27:09] Key ''2'' pressed
-[2023-05-23 15:27:09] Key ''3'' pressed
-[2023-05-23 15:27:10] Key 'Key.shift' pressed
-[2023-05-23 15:27:10] Key ''!'' pressed
